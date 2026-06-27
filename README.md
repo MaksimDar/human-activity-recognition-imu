@@ -206,4 +206,4 @@ human-activity-recognition/
 
 **Maksym** — Data Science & ML Engineer  
 GoIT Data Science Programme  
-[LinkedIn](#https://www.linkedin.com/in/maksym-dovhusha) · [GitHub](#https://github.com/MaksimDar/MaksimDar-human-activity-recognition-imu)
+[LinkedIn](#https://www.linkedin.com/in/maksym-dovhusha) · [GitHub](#https://github.com/MaksimDar/human-activity-recognition-imu)
