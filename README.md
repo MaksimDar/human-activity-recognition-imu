@@ -1,5 +1,6 @@
 # Human Activity Recognition from Accelerometer Data
 
+
 > Classifying physical activities — walking, running, idle, and stair-climbing — using time-domain feature engineering, SVM, and Random Forest on raw mobile phone accelerometer signals.
 
 ---
